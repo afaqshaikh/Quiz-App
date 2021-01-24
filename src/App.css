@@ -1,0 +1,17 @@
+.App {
+  height: 100% !important;
+}
+
+.quiz-container{
+  margin-top: 8%;
+  background-color : #fff;
+  background-image: url("./Image/quiz.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+}
+.score{
+  color: #fff;
+  text-align: center;
+}
